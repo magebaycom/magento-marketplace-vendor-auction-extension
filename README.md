@@ -8,7 +8,7 @@ Read more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-ma
 
 This module helps support auction feature for vendor’s product in your marketplace website. The customers can easy to bid on their products.
 
-## Features of Magento Marketplace Vendor Blog & News Extension for Magento2
+## Features of Magento Marketplace Seller Auction Extension for Magento2
 - Support all product type like simple, configurable, bundle product, groups product.
 - Allow notification email messages for Auto bid to owner products
 - Vendor can manage all their auction products
